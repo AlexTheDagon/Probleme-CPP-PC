@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486025822 source:c:\users\user\desktop\probleme c++\vis\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

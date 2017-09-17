@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1486301563 source:c:\users\user\desktop\probleme c++\drept 3\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

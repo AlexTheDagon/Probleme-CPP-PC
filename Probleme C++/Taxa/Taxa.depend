@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487083289 source:c:\users\user\desktop\probleme c++\taxa\main.cpp
+	<iostream>
+	<fstream>
+	<deque>
+

@@ -1,0 +1,63 @@
+#include <iostream>
+#include <fstream>
+#include <queue>
+#include <vector>
+#include <functional>
+#define x first
+#define y second
+#define pp pair<int,int>
+#define pb push_back
+#define x first
+#define y second
+#define NM 10005
+#define mp make_pair
+using namespace std;
+ifstream in("cezar.in");
+ofstream out("cezar.out");
+int n,k;
+int fr;
+vector <short> v[NM];
+short cost[NM],p;
+int sol;
+int a,b;
+class Compare
+{
+    public:
+    bool operator() (int a, int b)
+    {
+        return cost[a]>cost[b];
+    }
+};
+priority_queue<short,vector<short>,Compare > q;
+int main()
+{
+    in>>n>>k;
+    for(int i=1;i<n;++i)
+    {
+        cost[i]=1;
+        in>>a>>b;
+        v[a].pb(b);
+        v[b].pb(a);
+    }
+    cost[n]=1;
+    ///cost stabilit
+    ///legaturile stabilite
+    for(int i=1;i<=n;++i)
+        if(v[i].size()==1)
+            q.push(i);
+    ///initializat coada
+    for(int i=n-1;i>k;--i)
+    {
+        fr=q.top();
+        q.pop();
+        sol+=cost[fr];
+        p=v[fr][0];
+        cost[p]+=cost[fr];
+        for(int j=0;j<v[p].size();++j)
+            if(v[p][j]==fr)v[p].erase(v[p].begin()+j);
+        if(v[p].size()==1)q.push(p);
+        v[fr].clear();
+    }
+    out<<sol;
+    return 0;
+}

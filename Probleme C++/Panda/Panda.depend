@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482957192 source:c:\users\user\desktop\probleme c++\panda\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

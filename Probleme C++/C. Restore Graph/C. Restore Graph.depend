@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505566340 source:c:\users\user\desktop\probleme c++\c. restore graph\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

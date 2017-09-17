@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488488595 source:c:\users\user\desktop\probleme c++\cmmmc\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

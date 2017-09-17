@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1485540862 source:c:\users\user\desktop\probleme c++\nori\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	<math.h>
+

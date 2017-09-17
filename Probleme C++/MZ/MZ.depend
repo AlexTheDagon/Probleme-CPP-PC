@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485554737 source:c:\users\user\desktop\probleme c++\mz\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

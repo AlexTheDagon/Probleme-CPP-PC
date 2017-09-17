@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483371886 source:c:\users\user\desktop\probleme c++\ferma 3\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

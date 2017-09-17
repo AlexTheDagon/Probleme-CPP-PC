@@ -1,0 +1,44 @@
+#include <iostream>
+#include <math.h>
+#define NM 1005
+using namespace std;
+int e,n,aux,lg,sem,st,sum;
+int main()
+{
+    cin>>e>>n;
+    while(e!=0 && n!=0)
+    {
+        aux=1;
+        lg=0;
+        while(aux<n)
+        {
+            aux*=2;
+            ++lg;
+        }
+        if(lg<e)cout<<lg+1<<'\n';
+        else
+        {
+            if(e==1)cout<<n<<'\n';
+            else
+            {
+                while(e>2)
+                {
+                    n=(n+1)/2;
+                    --e;
+                }
+                sem=0;
+                sum=0;
+                st=0;
+                while(sem==0)
+                {
+                    sum=0;
+                    ++st;
+                    if(st*(st+1)/2>=n)sem=1;
+                }
+                cout<<st<<'\n';
+            }
+        }
+        cin>>e>>n;
+    }
+    return 0;
+}

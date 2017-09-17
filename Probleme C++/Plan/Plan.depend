@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1499378047 source:c:\users\user\desktop\probleme c++\plan\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+	<vector>
+	<map>
+	<stdlib.h>
+

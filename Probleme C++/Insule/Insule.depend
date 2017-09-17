@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483546627 source:c:\users\user\desktop\probleme c++\insule\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

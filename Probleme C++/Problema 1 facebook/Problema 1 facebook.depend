@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1483878650 source:c:\users\user\desktop\probleme c++\problema 1 facebook\main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486149376 source:c:\users\user\desktop\probleme c++\cern\main.cpp
+	<iostream>
+	<fstream>
+

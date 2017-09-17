@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485608895 source:c:\users\user\desktop\probleme c++\perechi\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

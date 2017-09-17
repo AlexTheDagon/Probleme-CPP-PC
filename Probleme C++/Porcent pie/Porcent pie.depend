@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1483988483 source:c:\users\user\desktop\probleme c++\porcent pie\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<math.h>
+

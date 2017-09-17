@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505422178 source:c:\users\user\desktop\probleme c++\c. longest regular bracket sequence\main.cpp
+	<iostream>
+	<stack>
+

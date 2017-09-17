@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484924268 source:c:\users\user\desktop\probleme c++\numere8\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

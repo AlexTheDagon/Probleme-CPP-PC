@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485613426 source:c:\users\user\desktop\probleme c++\sortare 2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

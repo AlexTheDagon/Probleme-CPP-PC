@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487076208 source:c:\users\user\desktop\probleme c++\multiplu\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

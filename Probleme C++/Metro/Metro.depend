@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484118933 source:c:\users\user\desktop\probleme c++\metro\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+

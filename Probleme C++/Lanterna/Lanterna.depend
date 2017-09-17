@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1497816820 source:c:\users\user\desktop\probleme c++\lanterna\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<functional>
+

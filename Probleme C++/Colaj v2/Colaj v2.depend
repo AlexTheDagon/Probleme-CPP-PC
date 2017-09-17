@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1486463853 source:c:\users\user\desktop\probleme c++\colaj v2\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+

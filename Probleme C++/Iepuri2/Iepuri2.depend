@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500409468 source:c:\users\user\desktop\probleme c++\iepuri2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

@@ -1,0 +1,25 @@
+#include <iostream>
+#include <fstream>
+#define NM 2005
+#define m 29997
+using namespace std;
+ifstream in("doipe.in");
+ofstream out("doipe.out");
+int n,t,dp[2][NM];
+string s,ss;
+int main()
+{
+    in>>t;
+    while(t)
+    {
+        --t;
+        in>>n>>ss;
+        s="0";
+        s+=ss;
+        dp[1][1]=1;
+
+        out<<dp[1][n]<<'\n';
+    }
+
+    return 0;
+}

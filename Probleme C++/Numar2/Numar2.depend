@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1500208670 source:c:\users\user\desktop\probleme c++\numar2\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<functional>
+	<vector>
+	<map>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484323345 source:c:\users\user\desktop\probleme c++\triunghi\main.cpp
+	<iostream>
+	<fstream>
+

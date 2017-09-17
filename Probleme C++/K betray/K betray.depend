@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485975106 source:c:\users\user\desktop\probleme c++\k betray\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

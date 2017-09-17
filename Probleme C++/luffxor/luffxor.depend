@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485525651 source:c:\users\user\desktop\probleme c++\luffxor\main.cpp
+	<iostream>
+	<fstream>
+	<set>
+

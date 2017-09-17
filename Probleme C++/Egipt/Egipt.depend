@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1486659662 source:c:\users\user\desktop\probleme c++\egipt\main.cpp
+	<iostream>
+	<queue>
+	<fstream>
+	<algorithm>
+

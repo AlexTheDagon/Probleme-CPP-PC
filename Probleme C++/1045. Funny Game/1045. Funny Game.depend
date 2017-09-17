@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487007640 source:c:\users\user\desktop\probleme c++\1045. funny game\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

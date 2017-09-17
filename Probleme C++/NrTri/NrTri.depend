@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485070298 source:c:\users\user\desktop\probleme c++\nrtri\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+

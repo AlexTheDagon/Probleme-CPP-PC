@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1482869328 source:c:\users\user\desktop\probleme c++\compresie\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	<cctype>
+

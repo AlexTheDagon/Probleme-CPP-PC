@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1486386392 source:c:\users\user\desktop\probleme c++\dreptunchiuri4\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<algorithm>
+	<vector>
+

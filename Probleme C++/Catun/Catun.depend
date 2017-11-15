@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1507458552 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\catun\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+	<functional>
+

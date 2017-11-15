@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507154625 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\c. soldier and cards\main.cpp
+	<iostream>
+	<map>
+	<queue>
+

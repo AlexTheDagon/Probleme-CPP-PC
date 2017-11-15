@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1506010425 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\d.fedor and essay\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<queue>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507929081 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\dragoni\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+

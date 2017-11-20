@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511085226 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\problema 1 tema\main.cpp
+	<iostream>
+	<fstream>
+

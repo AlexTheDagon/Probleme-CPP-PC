@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517341841 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\suma divizorilor\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515345052 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\1989. subpalindromes\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string.h>
+

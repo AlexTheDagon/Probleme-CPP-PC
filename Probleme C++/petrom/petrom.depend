@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516133667 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\petrom\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

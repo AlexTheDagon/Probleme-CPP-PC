@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518282826 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\diamant\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1518278120 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\trompeta\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+	<string.h>
+

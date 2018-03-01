@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512223728 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\a. scarborough fair\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

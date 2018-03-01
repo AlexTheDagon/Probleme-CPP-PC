@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518986523 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\perm4\main.cpp
+	<iostream>
+	<fstream>
+

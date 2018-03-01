@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1514972866 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\aiacupalindroame\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string.h>
+

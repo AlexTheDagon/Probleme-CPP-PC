@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517758531 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\arrows\main.cpp
+	<iostream>
+	<fstream>
+

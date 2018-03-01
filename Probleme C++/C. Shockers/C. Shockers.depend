@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514041334 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\c. shockers\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

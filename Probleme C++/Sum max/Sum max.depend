@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516562805 source:c:\users\user\desktop\probleme-cpp-pc\probleme c++\sum max\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
